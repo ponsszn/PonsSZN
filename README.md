@@ -2,7 +2,8 @@
 
 **The All-In Season on Robinhood Chain**  
 The official builder season & launch infrastructure for Robinhood Chain.
-
+$PONSZN
+Contract address: 0x2DaF831c455C40602E48eE27Cb9bE5c9D7456c82
 ---
 
 ### What is Pons SZN?
@@ -43,7 +44,6 @@ We give early builders and believers priority access to launch, exclusive reward
 - **🌐 Official Website:** [ponsszn.fun](https://ponsszn.fun)
 - **🐦 Twitter / X:** [@ponsdotfamily](https://twitter.com/ponsdotfamily)
 - **📜 Join Waitlist:** [ponsszn.fun](https://ponsszn.fun)
-- **📄 Documentation:** Coming Soon
 
 ---
 
@@ -56,5 +56,4 @@ We give early builders and believers priority access to launch, exclusive reward
 
 ---
 
-**Powered by Pons • Built on Robinhood Chain**  
-Made with ❤️ for real builders.
+**Powered by Pons • Built on Robinhood Chain** 
