@@ -2,15 +2,15 @@
 
 **The All-In Season on Robinhood Chain**  
 The official builder season & launch infrastructure for Robinhood Chain.
-$PONSZN
-Contract address: 0x2DaF831c455C40602E48eE27Cb9bE5c9D7456c82
+
 ---
 
 ### What is Pons SZN?
 
 Pons SZN is the premier builder-first season on **Robinhood Chain**.  
 We give early builders and believers priority access to launch, exclusive rewards, and long-term ecosystem ownership.
-
+$PONSZN
+Contract address: 0x2DaF831c455C40602E48eE27Cb9bE5c9D7456c82
 **Pons SZN Token launching soon with @ponsdotfamily**
 
 ---
