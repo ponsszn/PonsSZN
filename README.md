@@ -12,7 +12,7 @@ We give early builders and believers priority access to launch, exclusive reward
 
 $PONSZN
 
-Contract address: 0x2DaF831c455C40602E48eE27Cb9bE5c9D7456c82
+Contract address: soon
 
 **Pons SZN Token launching soon with @ponsdotfamily**
 
