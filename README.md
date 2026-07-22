@@ -3,8 +3,6 @@
 **The All-In Season on Robinhood Chain**  
 The official builder season & launch infrastructure for Robinhood Chain.
 
-![Pons SZN Banner](https://iili.io/CNhyGx2.png)
-
 ---
 
 ### What is Pons SZN?
